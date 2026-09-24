@@ -37,6 +37,7 @@ export default function Footer() {
               <li><Link href="/contact" className="hover:text-blue-400 transition">Contact Us</Link></li>
               <li><Link href="/faq" className="hover:text-blue-400 transition">FAQ</Link></li>
               <li><Link href="/blog" className="hover:text-blue-400 transition">Pharmacy News</Link></li>
+              <li><Link href="/medications" className="hover:text-blue-400 transition font-bold text-emerald-400">Medications A-Z</Link></li>
             </ul>
           </div>
 
