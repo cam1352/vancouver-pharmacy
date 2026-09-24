@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "slug": "understanding-pharmacare-bc",
+    "title": "Understanding PharmaCare Coverage in BC",
+    "excerpt": "Navigating your prescription insurance shouldn't be a headache. Learn how PharmaCare deductibles work and how we direct-bill.",
+    "content": "British Columbia's PharmaCare program helps residents pay for eligible prescription drugs and medical supplies. Once you register for Fair PharmaCare, your coverage is based on your net income from two years ago. At Vancouver Pharmacy, we process your claims in real-time. This means you never have to submit receipts manually—we direct-bill PharmaCare and your private insurance simultaneously so you only pay the absolute minimum out of pocket. If you are ever confused about why a medication wasn't covered, our clinical team is happy to do an insurance review with you.",
+    "date": "2026-09-24",
+    "author": "Clinical Team"
+  },
+  {
+    "id": 2,
+    "slug": "minor-ailments-prescribing",
+    "title": "Skip the Walk-in Clinic: Minor Ailments We Can Prescribe For",
+    "excerpt": "Did you know BC Pharmacists can now prescribe for 21 minor ailments? Save yourself a trip to the doctor.",
+    "content": "Waiting for hours at a walk-in clinic for a simple prescription is a thing of the past. In British Columbia, licensed pharmacists are now authorized to assess and prescribe medications for 21 minor ailments. These include uncomplicated urinary tract infections (UTIs), pink eye (conjunctivitis), cold sores, allergic rhinitis, mild acne, and oral thrush. Our pharmacists can evaluate your symptoms over a quick phone call or in-person consultation and have your prescription ready—or mailed to your door—the very same day.",
+    "date": "2026-09-22",
+    "author": "Clinical Team"
+  },
+  {
+    "id": 3,
+    "slug": "benefits-of-blister-packaging",
+    "title": "The Lifesaving Benefits of Blister Packaging",
+    "excerpt": "Managing multiple medications can be dangerous if done incorrectly. Discover why compliance packaging is a game-changer.",
+    "content": "If you or a loved one takes more than three different medications a day, keeping track of bottles, refill dates, and dosages can become overwhelming. Blister packaging (also known as compliance packaging) solves this by organizing your pills by day and time (Morning, Noon, Evening, Bedtime) into secure, easily punchable bubbles. This eliminates double-dosing and missed doses. Vancouver Pharmacy offers this service completely free of charge. We sync all your refills so you only receive one package a week or month, and we can deliver it straight to your door across BC.",
+    "date": "2026-09-18",
+    "author": "Clinical Team"
+  }
+]

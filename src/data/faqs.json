@@ -1,502 +1,532 @@
 [
   {
+    "id": 101,
+    "question": "How do I transfer my prescription to Vancouver Pharmacy?",
+    "answer": "Transferring is simple and completely free. Just click the 'Email a Pharmacist' button or call us directly with your current pharmacy's name. We handle all the coordination, contacting them on your behalf to transfer the files securely."
+  },
+  {
+    "id": 102,
+    "question": "Is the mail delivery actually free anywhere in BC?",
+    "answer": "Yes! We cover the entire cost of express shipping across British Columbia. Whether you live in downtown Vancouver or Northern BC, your medications are delivered to your door securely at no additional charge."
+  },
+  {
+    "id": 103,
+    "question": "Can your pharmacists prescribe medications for minor ailments?",
+    "answer": "Absolutely. In BC, pharmacists are authorized to prescribe for 21 minor ailments including uncomplicated UTIs, pink eye, cold sores, allergies, and mild acne. You can skip the walk-in clinic waiting room entirely."
+  },
+  {
+    "id": 104,
+    "question": "Do you offer blister packaging?",
+    "answer": "Yes, we provide complimentary blister/compliance packaging for patients taking multiple medications. We organize your doses by day and time so you never have to worry about missing a dose or double-dosing."
+  },
+  {
+    "id": 105,
+    "question": "How are medications shipped securely?",
+    "answer": "All packages are shipped in discreet, tamper-evident packaging. If your medication requires refrigeration (like insulin), we use specialized temperature-controlled courier packs to ensure it arrives safely."
+  },
+  {
+    "id": 106,
+    "question": "Do you accept all insurance plans?",
+    "answer": "We accept PharmaCare and all major private insurance plans (Pacific Blue Cross, Sun Life, Canada Life, Manulife, etc.). We direct-bill your insurance automatically so you only pay your regular deductible/copay."
+  },
+  {
     "id": 1,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #1)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about prescription transfers at Vancouver Pharmacy (Question 1)?",
+    "answer": "Our prescription transfers services are designed to be seamless and accessible. Whether you need assistance with prescription transfers via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 2,
-    "question": "Are your cleaning products safe for allergies (FAQ #2)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about mail delivery at Vancouver Pharmacy (Question 2)?",
+    "answer": "Our mail delivery services are designed to be seamless and accessible. Whether you need assistance with mail delivery via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 3,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #3)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about minor ailments at Vancouver Pharmacy (Question 3)?",
+    "answer": "Our minor ailments services are designed to be seamless and accessible. Whether you need assistance with minor ailments via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 4,
-    "question": "Can you clean after business hours (FAQ #4)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about blister packaging at Vancouver Pharmacy (Question 4)?",
+    "answer": "Our blister packaging services are designed to be seamless and accessible. Whether you need assistance with blister packaging via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 5,
-    "question": "What is included in your deep cleaning package (FAQ #5)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about insurance and billing at Vancouver Pharmacy (Question 5)?",
+    "answer": "Our insurance and billing services are designed to be seamless and accessible. Whether you need assistance with insurance and billing via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 6,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #6)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about compounding at Vancouver Pharmacy (Question 6)?",
+    "answer": "Our compounding services are designed to be seamless and accessible. Whether you need assistance with compounding via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 7,
-    "question": "Are your cleaning products safe for allergies (FAQ #7)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about vaccinations at Vancouver Pharmacy (Question 7)?",
+    "answer": "Our vaccinations services are designed to be seamless and accessible. Whether you need assistance with vaccinations via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 8,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #8)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about medication reviews at Vancouver Pharmacy (Question 8)?",
+    "answer": "Our medication reviews services are designed to be seamless and accessible. Whether you need assistance with medication reviews via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 9,
-    "question": "Can you clean after business hours (FAQ #9)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about over-the-counter at Vancouver Pharmacy (Question 9)?",
+    "answer": "Our over-the-counter services are designed to be seamless and accessible. Whether you need assistance with over-the-counter via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 10,
-    "question": "What is included in your deep cleaning package (FAQ #10)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about refills at Vancouver Pharmacy (Question 10)?",
+    "answer": "Our refills services are designed to be seamless and accessible. Whether you need assistance with refills via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 11,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #11)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about prescription transfers at Vancouver Pharmacy (Question 11)?",
+    "answer": "Our prescription transfers services are designed to be seamless and accessible. Whether you need assistance with prescription transfers via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 12,
-    "question": "Are your cleaning products safe for allergies (FAQ #12)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about mail delivery at Vancouver Pharmacy (Question 12)?",
+    "answer": "Our mail delivery services are designed to be seamless and accessible. Whether you need assistance with mail delivery via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 13,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #13)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about minor ailments at Vancouver Pharmacy (Question 13)?",
+    "answer": "Our minor ailments services are designed to be seamless and accessible. Whether you need assistance with minor ailments via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 14,
-    "question": "Can you clean after business hours (FAQ #14)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about blister packaging at Vancouver Pharmacy (Question 14)?",
+    "answer": "Our blister packaging services are designed to be seamless and accessible. Whether you need assistance with blister packaging via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 15,
-    "question": "What is included in your deep cleaning package (FAQ #15)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about insurance and billing at Vancouver Pharmacy (Question 15)?",
+    "answer": "Our insurance and billing services are designed to be seamless and accessible. Whether you need assistance with insurance and billing via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 16,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #16)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about compounding at Vancouver Pharmacy (Question 16)?",
+    "answer": "Our compounding services are designed to be seamless and accessible. Whether you need assistance with compounding via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 17,
-    "question": "Are your cleaning products safe for allergies (FAQ #17)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about vaccinations at Vancouver Pharmacy (Question 17)?",
+    "answer": "Our vaccinations services are designed to be seamless and accessible. Whether you need assistance with vaccinations via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 18,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #18)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about medication reviews at Vancouver Pharmacy (Question 18)?",
+    "answer": "Our medication reviews services are designed to be seamless and accessible. Whether you need assistance with medication reviews via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 19,
-    "question": "Can you clean after business hours (FAQ #19)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about over-the-counter at Vancouver Pharmacy (Question 19)?",
+    "answer": "Our over-the-counter services are designed to be seamless and accessible. Whether you need assistance with over-the-counter via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 20,
-    "question": "What is included in your deep cleaning package (FAQ #20)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about refills at Vancouver Pharmacy (Question 20)?",
+    "answer": "Our refills services are designed to be seamless and accessible. Whether you need assistance with refills via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 21,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #21)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about prescription transfers at Vancouver Pharmacy (Question 21)?",
+    "answer": "Our prescription transfers services are designed to be seamless and accessible. Whether you need assistance with prescription transfers via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 22,
-    "question": "Are your cleaning products safe for allergies (FAQ #22)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about mail delivery at Vancouver Pharmacy (Question 22)?",
+    "answer": "Our mail delivery services are designed to be seamless and accessible. Whether you need assistance with mail delivery via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 23,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #23)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about minor ailments at Vancouver Pharmacy (Question 23)?",
+    "answer": "Our minor ailments services are designed to be seamless and accessible. Whether you need assistance with minor ailments via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 24,
-    "question": "Can you clean after business hours (FAQ #24)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about blister packaging at Vancouver Pharmacy (Question 24)?",
+    "answer": "Our blister packaging services are designed to be seamless and accessible. Whether you need assistance with blister packaging via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 25,
-    "question": "What is included in your deep cleaning package (FAQ #25)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about insurance and billing at Vancouver Pharmacy (Question 25)?",
+    "answer": "Our insurance and billing services are designed to be seamless and accessible. Whether you need assistance with insurance and billing via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 26,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #26)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about compounding at Vancouver Pharmacy (Question 26)?",
+    "answer": "Our compounding services are designed to be seamless and accessible. Whether you need assistance with compounding via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 27,
-    "question": "Are your cleaning products safe for allergies (FAQ #27)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about vaccinations at Vancouver Pharmacy (Question 27)?",
+    "answer": "Our vaccinations services are designed to be seamless and accessible. Whether you need assistance with vaccinations via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 28,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #28)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about medication reviews at Vancouver Pharmacy (Question 28)?",
+    "answer": "Our medication reviews services are designed to be seamless and accessible. Whether you need assistance with medication reviews via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 29,
-    "question": "Can you clean after business hours (FAQ #29)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about over-the-counter at Vancouver Pharmacy (Question 29)?",
+    "answer": "Our over-the-counter services are designed to be seamless and accessible. Whether you need assistance with over-the-counter via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 30,
-    "question": "What is included in your deep cleaning package (FAQ #30)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about refills at Vancouver Pharmacy (Question 30)?",
+    "answer": "Our refills services are designed to be seamless and accessible. Whether you need assistance with refills via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 31,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #31)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about prescription transfers at Vancouver Pharmacy (Question 31)?",
+    "answer": "Our prescription transfers services are designed to be seamless and accessible. Whether you need assistance with prescription transfers via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 32,
-    "question": "Are your cleaning products safe for allergies (FAQ #32)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about mail delivery at Vancouver Pharmacy (Question 32)?",
+    "answer": "Our mail delivery services are designed to be seamless and accessible. Whether you need assistance with mail delivery via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 33,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #33)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about minor ailments at Vancouver Pharmacy (Question 33)?",
+    "answer": "Our minor ailments services are designed to be seamless and accessible. Whether you need assistance with minor ailments via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 34,
-    "question": "Can you clean after business hours (FAQ #34)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about blister packaging at Vancouver Pharmacy (Question 34)?",
+    "answer": "Our blister packaging services are designed to be seamless and accessible. Whether you need assistance with blister packaging via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 35,
-    "question": "What is included in your deep cleaning package (FAQ #35)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about insurance and billing at Vancouver Pharmacy (Question 35)?",
+    "answer": "Our insurance and billing services are designed to be seamless and accessible. Whether you need assistance with insurance and billing via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 36,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #36)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about compounding at Vancouver Pharmacy (Question 36)?",
+    "answer": "Our compounding services are designed to be seamless and accessible. Whether you need assistance with compounding via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 37,
-    "question": "Are your cleaning products safe for allergies (FAQ #37)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about vaccinations at Vancouver Pharmacy (Question 37)?",
+    "answer": "Our vaccinations services are designed to be seamless and accessible. Whether you need assistance with vaccinations via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 38,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #38)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about medication reviews at Vancouver Pharmacy (Question 38)?",
+    "answer": "Our medication reviews services are designed to be seamless and accessible. Whether you need assistance with medication reviews via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 39,
-    "question": "Can you clean after business hours (FAQ #39)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about over-the-counter at Vancouver Pharmacy (Question 39)?",
+    "answer": "Our over-the-counter services are designed to be seamless and accessible. Whether you need assistance with over-the-counter via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 40,
-    "question": "What is included in your deep cleaning package (FAQ #40)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about refills at Vancouver Pharmacy (Question 40)?",
+    "answer": "Our refills services are designed to be seamless and accessible. Whether you need assistance with refills via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 41,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #41)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about prescription transfers at Vancouver Pharmacy (Question 41)?",
+    "answer": "Our prescription transfers services are designed to be seamless and accessible. Whether you need assistance with prescription transfers via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 42,
-    "question": "Are your cleaning products safe for allergies (FAQ #42)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about mail delivery at Vancouver Pharmacy (Question 42)?",
+    "answer": "Our mail delivery services are designed to be seamless and accessible. Whether you need assistance with mail delivery via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 43,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #43)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about minor ailments at Vancouver Pharmacy (Question 43)?",
+    "answer": "Our minor ailments services are designed to be seamless and accessible. Whether you need assistance with minor ailments via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 44,
-    "question": "Can you clean after business hours (FAQ #44)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about blister packaging at Vancouver Pharmacy (Question 44)?",
+    "answer": "Our blister packaging services are designed to be seamless and accessible. Whether you need assistance with blister packaging via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 45,
-    "question": "What is included in your deep cleaning package (FAQ #45)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about insurance and billing at Vancouver Pharmacy (Question 45)?",
+    "answer": "Our insurance and billing services are designed to be seamless and accessible. Whether you need assistance with insurance and billing via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 46,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #46)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about compounding at Vancouver Pharmacy (Question 46)?",
+    "answer": "Our compounding services are designed to be seamless and accessible. Whether you need assistance with compounding via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 47,
-    "question": "Are your cleaning products safe for allergies (FAQ #47)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about vaccinations at Vancouver Pharmacy (Question 47)?",
+    "answer": "Our vaccinations services are designed to be seamless and accessible. Whether you need assistance with vaccinations via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 48,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #48)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about medication reviews at Vancouver Pharmacy (Question 48)?",
+    "answer": "Our medication reviews services are designed to be seamless and accessible. Whether you need assistance with medication reviews via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 49,
-    "question": "Can you clean after business hours (FAQ #49)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about over-the-counter at Vancouver Pharmacy (Question 49)?",
+    "answer": "Our over-the-counter services are designed to be seamless and accessible. Whether you need assistance with over-the-counter via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 50,
-    "question": "What is included in your deep cleaning package (FAQ #50)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about refills at Vancouver Pharmacy (Question 50)?",
+    "answer": "Our refills services are designed to be seamless and accessible. Whether you need assistance with refills via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 51,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #51)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about prescription transfers at Vancouver Pharmacy (Question 51)?",
+    "answer": "Our prescription transfers services are designed to be seamless and accessible. Whether you need assistance with prescription transfers via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 52,
-    "question": "Are your cleaning products safe for allergies (FAQ #52)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about mail delivery at Vancouver Pharmacy (Question 52)?",
+    "answer": "Our mail delivery services are designed to be seamless and accessible. Whether you need assistance with mail delivery via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 53,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #53)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about minor ailments at Vancouver Pharmacy (Question 53)?",
+    "answer": "Our minor ailments services are designed to be seamless and accessible. Whether you need assistance with minor ailments via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 54,
-    "question": "Can you clean after business hours (FAQ #54)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about blister packaging at Vancouver Pharmacy (Question 54)?",
+    "answer": "Our blister packaging services are designed to be seamless and accessible. Whether you need assistance with blister packaging via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 55,
-    "question": "What is included in your deep cleaning package (FAQ #55)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about insurance and billing at Vancouver Pharmacy (Question 55)?",
+    "answer": "Our insurance and billing services are designed to be seamless and accessible. Whether you need assistance with insurance and billing via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 56,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #56)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about compounding at Vancouver Pharmacy (Question 56)?",
+    "answer": "Our compounding services are designed to be seamless and accessible. Whether you need assistance with compounding via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 57,
-    "question": "Are your cleaning products safe for allergies (FAQ #57)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about vaccinations at Vancouver Pharmacy (Question 57)?",
+    "answer": "Our vaccinations services are designed to be seamless and accessible. Whether you need assistance with vaccinations via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 58,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #58)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about medication reviews at Vancouver Pharmacy (Question 58)?",
+    "answer": "Our medication reviews services are designed to be seamless and accessible. Whether you need assistance with medication reviews via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 59,
-    "question": "Can you clean after business hours (FAQ #59)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about over-the-counter at Vancouver Pharmacy (Question 59)?",
+    "answer": "Our over-the-counter services are designed to be seamless and accessible. Whether you need assistance with over-the-counter via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 60,
-    "question": "What is included in your deep cleaning package (FAQ #60)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about refills at Vancouver Pharmacy (Question 60)?",
+    "answer": "Our refills services are designed to be seamless and accessible. Whether you need assistance with refills via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 61,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #61)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about prescription transfers at Vancouver Pharmacy (Question 61)?",
+    "answer": "Our prescription transfers services are designed to be seamless and accessible. Whether you need assistance with prescription transfers via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 62,
-    "question": "Are your cleaning products safe for allergies (FAQ #62)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about mail delivery at Vancouver Pharmacy (Question 62)?",
+    "answer": "Our mail delivery services are designed to be seamless and accessible. Whether you need assistance with mail delivery via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 63,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #63)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about minor ailments at Vancouver Pharmacy (Question 63)?",
+    "answer": "Our minor ailments services are designed to be seamless and accessible. Whether you need assistance with minor ailments via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 64,
-    "question": "Can you clean after business hours (FAQ #64)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about blister packaging at Vancouver Pharmacy (Question 64)?",
+    "answer": "Our blister packaging services are designed to be seamless and accessible. Whether you need assistance with blister packaging via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 65,
-    "question": "What is included in your deep cleaning package (FAQ #65)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about insurance and billing at Vancouver Pharmacy (Question 65)?",
+    "answer": "Our insurance and billing services are designed to be seamless and accessible. Whether you need assistance with insurance and billing via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 66,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #66)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about compounding at Vancouver Pharmacy (Question 66)?",
+    "answer": "Our compounding services are designed to be seamless and accessible. Whether you need assistance with compounding via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 67,
-    "question": "Are your cleaning products safe for allergies (FAQ #67)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about vaccinations at Vancouver Pharmacy (Question 67)?",
+    "answer": "Our vaccinations services are designed to be seamless and accessible. Whether you need assistance with vaccinations via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 68,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #68)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about medication reviews at Vancouver Pharmacy (Question 68)?",
+    "answer": "Our medication reviews services are designed to be seamless and accessible. Whether you need assistance with medication reviews via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 69,
-    "question": "Can you clean after business hours (FAQ #69)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about over-the-counter at Vancouver Pharmacy (Question 69)?",
+    "answer": "Our over-the-counter services are designed to be seamless and accessible. Whether you need assistance with over-the-counter via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 70,
-    "question": "What is included in your deep cleaning package (FAQ #70)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about refills at Vancouver Pharmacy (Question 70)?",
+    "answer": "Our refills services are designed to be seamless and accessible. Whether you need assistance with refills via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 71,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #71)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about prescription transfers at Vancouver Pharmacy (Question 71)?",
+    "answer": "Our prescription transfers services are designed to be seamless and accessible. Whether you need assistance with prescription transfers via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 72,
-    "question": "Are your cleaning products safe for allergies (FAQ #72)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about mail delivery at Vancouver Pharmacy (Question 72)?",
+    "answer": "Our mail delivery services are designed to be seamless and accessible. Whether you need assistance with mail delivery via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 73,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #73)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about minor ailments at Vancouver Pharmacy (Question 73)?",
+    "answer": "Our minor ailments services are designed to be seamless and accessible. Whether you need assistance with minor ailments via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 74,
-    "question": "Can you clean after business hours (FAQ #74)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about blister packaging at Vancouver Pharmacy (Question 74)?",
+    "answer": "Our blister packaging services are designed to be seamless and accessible. Whether you need assistance with blister packaging via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 75,
-    "question": "What is included in your deep cleaning package (FAQ #75)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about insurance and billing at Vancouver Pharmacy (Question 75)?",
+    "answer": "Our insurance and billing services are designed to be seamless and accessible. Whether you need assistance with insurance and billing via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 76,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #76)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about compounding at Vancouver Pharmacy (Question 76)?",
+    "answer": "Our compounding services are designed to be seamless and accessible. Whether you need assistance with compounding via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 77,
-    "question": "Are your cleaning products safe for allergies (FAQ #77)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about vaccinations at Vancouver Pharmacy (Question 77)?",
+    "answer": "Our vaccinations services are designed to be seamless and accessible. Whether you need assistance with vaccinations via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 78,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #78)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about medication reviews at Vancouver Pharmacy (Question 78)?",
+    "answer": "Our medication reviews services are designed to be seamless and accessible. Whether you need assistance with medication reviews via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 79,
-    "question": "Can you clean after business hours (FAQ #79)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about over-the-counter at Vancouver Pharmacy (Question 79)?",
+    "answer": "Our over-the-counter services are designed to be seamless and accessible. Whether you need assistance with over-the-counter via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 80,
-    "question": "What is included in your deep cleaning package (FAQ #80)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about refills at Vancouver Pharmacy (Question 80)?",
+    "answer": "Our refills services are designed to be seamless and accessible. Whether you need assistance with refills via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 81,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #81)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about prescription transfers at Vancouver Pharmacy (Question 81)?",
+    "answer": "Our prescription transfers services are designed to be seamless and accessible. Whether you need assistance with prescription transfers via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 82,
-    "question": "Are your cleaning products safe for allergies (FAQ #82)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about mail delivery at Vancouver Pharmacy (Question 82)?",
+    "answer": "Our mail delivery services are designed to be seamless and accessible. Whether you need assistance with mail delivery via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 83,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #83)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about minor ailments at Vancouver Pharmacy (Question 83)?",
+    "answer": "Our minor ailments services are designed to be seamless and accessible. Whether you need assistance with minor ailments via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 84,
-    "question": "Can you clean after business hours (FAQ #84)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about blister packaging at Vancouver Pharmacy (Question 84)?",
+    "answer": "Our blister packaging services are designed to be seamless and accessible. Whether you need assistance with blister packaging via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 85,
-    "question": "What is included in your deep cleaning package (FAQ #85)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about insurance and billing at Vancouver Pharmacy (Question 85)?",
+    "answer": "Our insurance and billing services are designed to be seamless and accessible. Whether you need assistance with insurance and billing via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 86,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #86)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about compounding at Vancouver Pharmacy (Question 86)?",
+    "answer": "Our compounding services are designed to be seamless and accessible. Whether you need assistance with compounding via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 87,
-    "question": "Are your cleaning products safe for allergies (FAQ #87)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about vaccinations at Vancouver Pharmacy (Question 87)?",
+    "answer": "Our vaccinations services are designed to be seamless and accessible. Whether you need assistance with vaccinations via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 88,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #88)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about medication reviews at Vancouver Pharmacy (Question 88)?",
+    "answer": "Our medication reviews services are designed to be seamless and accessible. Whether you need assistance with medication reviews via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 89,
-    "question": "Can you clean after business hours (FAQ #89)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about over-the-counter at Vancouver Pharmacy (Question 89)?",
+    "answer": "Our over-the-counter services are designed to be seamless and accessible. Whether you need assistance with over-the-counter via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 90,
-    "question": "What is included in your deep cleaning package (FAQ #90)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about refills at Vancouver Pharmacy (Question 90)?",
+    "answer": "Our refills services are designed to be seamless and accessible. Whether you need assistance with refills via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 91,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #91)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about prescription transfers at Vancouver Pharmacy (Question 91)?",
+    "answer": "Our prescription transfers services are designed to be seamless and accessible. Whether you need assistance with prescription transfers via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 92,
-    "question": "Are your cleaning products safe for allergies (FAQ #92)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about mail delivery at Vancouver Pharmacy (Question 92)?",
+    "answer": "Our mail delivery services are designed to be seamless and accessible. Whether you need assistance with mail delivery via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 93,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #93)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about minor ailments at Vancouver Pharmacy (Question 93)?",
+    "answer": "Our minor ailments services are designed to be seamless and accessible. Whether you need assistance with minor ailments via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 94,
-    "question": "Can you clean after business hours (FAQ #94)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about blister packaging at Vancouver Pharmacy (Question 94)?",
+    "answer": "Our blister packaging services are designed to be seamless and accessible. Whether you need assistance with blister packaging via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 95,
-    "question": "What is included in your deep cleaning package (FAQ #95)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about insurance and billing at Vancouver Pharmacy (Question 95)?",
+    "answer": "Our insurance and billing services are designed to be seamless and accessible. Whether you need assistance with insurance and billing via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 96,
-    "question": "Do you provide commercial cleaning in Burnaby (FAQ #96)?",
-    "answer": "Yes, we offer specialized commercial cleaning for offices, restaurants, and medical facilities in Burnaby."
+    "question": "What do I need to know about compounding at Vancouver Pharmacy (Question 96)?",
+    "answer": "Our compounding services are designed to be seamless and accessible. Whether you need assistance with compounding via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 97,
-    "question": "Are your cleaning products safe for allergies (FAQ #97)?",
-    "answer": "Absolutely. We use eco-friendly, non-toxic, and hospital-grade products that are 100% safe for allergies."
+    "question": "What do I need to know about vaccinations at Vancouver Pharmacy (Question 97)?",
+    "answer": "Our vaccinations services are designed to be seamless and accessible. Whether you need assistance with vaccinations via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 98,
-    "question": "How do you handle keys and security for commercial buildings (FAQ #98)?",
-    "answer": "We have a strict key-handling protocol. Keys are coded without addresses, kept in a secure lockbox, and our staff is fully bonded and background-checked."
+    "question": "What do I need to know about medication reviews at Vancouver Pharmacy (Question 98)?",
+    "answer": "Our medication reviews services are designed to be seamless and accessible. Whether you need assistance with medication reviews via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 99,
-    "question": "Can you clean after business hours (FAQ #99)?",
-    "answer": "Yes! The majority of our commercial and office cleaning is done after-hours (evenings or nights) to ensure zero disruption to your daily operations."
+    "question": "What do I need to know about over-the-counter at Vancouver Pharmacy (Question 99)?",
+    "answer": "Our over-the-counter services are designed to be seamless and accessible. Whether you need assistance with over-the-counter via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   },
   {
     "id": 100,
-    "question": "What is included in your deep cleaning package (FAQ #100)?",
-    "answer": "Our deep package covers all surfaces, floors, sanitization of high-touch areas, and trash removal."
+    "question": "What do I need to know about refills at Vancouver Pharmacy (Question 100)?",
+    "answer": "Our refills services are designed to be seamless and accessible. Whether you need assistance with refills via mail delivery or direct consultation, our clinical pharmacists in Vancouver are fully equipped to help you manage your health safely and efficiently."
   }
 ]

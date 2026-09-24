@@ -94,7 +94,7 @@ export default function QuotePage() {
     <div className="min-h-screen bg-gray-50 flex flex-col">
       <header className="bg-white border-b py-4">
         <div className="max-w-4xl mx-auto px-4 flex justify-between items-center">
-          <Link href="/" className="text-xl font-bold text-emerald-600">Vancouver Cleaning Service</Link>
+          <Link href="/" className="text-xl font-bold text-emerald-600">Pharmacy Vancouver</Link>
           <div className="text-sm text-gray-500">Step {step} of 4</div>
         </div>
       </header>

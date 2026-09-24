@@ -12,7 +12,7 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-16">
-      <Link href="/" className="text-emerald-600 hover:underline mb-8 inline-block">&larr; Back Home</Link>
+      <Link href="/" className="text-blue-600 hover:underline mb-8 inline-block">&larr; Back Home</Link>
       <h1 className="text-4xl font-bold mb-6 text-slate-900">{service.title} in Vancouver</h1>
       <p className="text-xl text-slate-600 mb-8">{service.description}</p>
       <div className="prose prose-lg text-slate-700">
@@ -25,9 +25,9 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
           <li>Fully bonded and insured professionals</li>
         </ul>
       </div>
-      <div className="mt-12 bg-emerald-50 p-8 rounded-xl text-center">
+      <div className="mt-12 bg-blue-50 p-8 rounded-xl text-center">
         <h3 className="text-2xl font-bold mb-4">Ready to schedule your {service.title}?</h3>
-        <a href="mailto:info@cleaningservicevancouver.ca" className="inline-block bg-emerald-600 text-white font-bold py-3 px-8 rounded-lg hover:bg-emerald-700 transition">Get a Free Quote</a>
+        <a href="mailto:pharmacist@pharmacyvancouver.ca" className="inline-block bg-blue-600 text-white font-bold py-3 px-8 rounded-lg hover:bg-blue-700 transition">Contact a Pharmacist</a>
       </div>
     </div>
   );
