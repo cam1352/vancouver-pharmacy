@@ -7,7 +7,7 @@ export default function Footer() {
   return (
     <footer className="bg-slate-950 text-slate-300 py-16 px-4 border-t border-slate-800">
       <div className="max-w-7xl mx-auto">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16 border-b border-slate-800 pb-16">
+        <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-12 mb-16 border-b border-slate-800 pb-16">
           {/* Brand */}
           <div className="space-y-6">
             <Link href="/" className="flex items-center gap-3 font-bold text-white text-2xl hover:opacity-80 transition">
@@ -51,6 +51,18 @@ export default function Footer() {
                   </Link>
                 </li>
               ))}
+            </ul>
+          </div>
+
+          
+          {/* National Network */}
+          <div>
+            <h3 className="text-white font-bold mb-6 text-lg">Our National Network</h3>
+            <ul className="space-y-3 text-sm">
+              <li><a href="https://pharmacyvancouver.ca" className="hover:text-blue-400 transition">Vancouver Pharmacy (BC)</a></li>
+              <li><a href="https://pharmacycalgary.ca" className="hover:text-blue-400 transition">Calgary Pharmacy (AB)</a></li>
+              <li><a href="https://pharmacytoronto.ca" className="hover:text-blue-400 transition">Toronto Pharmacy (ON)</a></li>
+              <li><a href="mailto:pharmacist@pharmacyvancouver.ca" className="hover:text-blue-400 transition font-bold text-blue-500">Free National Mail Delivery</a></li>
             </ul>
           </div>
 
