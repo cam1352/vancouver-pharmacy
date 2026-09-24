@@ -1,0 +1,125 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id            String    @id @default(cuid())
+  name          String?
+  email         String?   @unique
+  emailVerified DateTime?
+  image         String?
+  role          String    @default("CLIENT") // "ADMIN", "CLIENT", "SUBCONTRACTOR"
+  quotes        Quote[]
+  jobs          Job[]     @relation("JobSubcontractor")
+  accounts      Account[]
+  sessions      Session[]
+}
+
+model Account {
+  id                 String  @id @default(cuid())
+  userId             String
+  type               String
+  provider           String
+  providerAccountId  String
+  refresh_token      String?
+  access_token       String?
+  expires_at         Int?
+  token_type         String?
+  scope              String?
+  id_token           String?
+  session_state      String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model Quote {
+  id           String   @id @default(cuid())
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  
+  // Client details (if not logged in)
+  guestName    String?
+  guestEmail   String?
+  guestPhone   String?
+
+  // Associated user (if logged in)
+  userId       String?
+  user         User?    @relation(fields: [userId], references: [id])
+
+  // Quote details
+  serviceType  String   // e.g., "residential", "commercial", "move-in"
+  sqft         Int
+  bedrooms     Int?
+  bathrooms    Int?
+  estimatedCost Float
+  status       String   @default("PENDING") // "PENDING", "APPROVED", "REJECTED", "CONTRACTED"
+  
+  // Relations
+  contract     Contract?
+}
+
+model Contract {
+  id           String   @id @default(cuid())
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  
+  quoteId      String   @unique
+  quote        Quote    @relation(fields: [quoteId], references: [id])
+
+  terms        String
+  acceptedAt   DateTime?
+  status       String   @default("DRAFT") // "DRAFT", "SENT", "ACCEPTED"
+
+  // Relations
+  job          Job?
+}
+
+model Job {
+  id              String   @id @default(cuid())
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  contractId      String   @unique
+  contract        Contract @relation(fields: [contractId], references: [id])
+
+  subcontractorId String?
+  subcontractor   User?    @relation("JobSubcontractor", fields: [subcontractorId], references: [id])
+
+  scheduledDate   DateTime?
+  status          String   @default("UNASSIGNED") // "UNASSIGNED", "ASSIGNED", "IN_PROGRESS", "COMPLETED"
+
+  // Relations
+  invoice         Invoice?
+}
+
+model Invoice {
+  id           String   @id @default(cuid())
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  jobId        String   @unique
+  job          Job      @relation(fields: [jobId], references: [id])
+
+  amount       Float
+  dueDate      DateTime
+  paidAt       DateTime?
+  status       String   @default("UNPAID") // "UNPAID", "PAID", "OVERDUE"
+}
