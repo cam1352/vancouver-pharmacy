@@ -1,0 +1,20 @@
+﻿import json
+import os
+
+services = [
+    {"id": 1, "slug": "prescription-refills", "title": "Prescription Refills", "description": "Fast and easy prescription refills delivered directly to your door.", "content": "We offer seamless prescription refills handled by our local pharmacists. Your medication is safely delivered."},
+    {"id": 2, "slug": "blister-packaging", "title": "Blister Packaging", "description": "Organized blister packaging to ensure you take the right medication at the right time.", "content": "Our clinical blister packaging ensures elderly and complex patients safely adhere to their medication regimes."},
+    {"id": 3, "slug": "medication-reviews", "title": "Medication Reviews", "description": "Comprehensive medication reviews with a licensed pharmacist.", "content": "Book a one-on-one consultation with our clinical pharmacist to review your medications for adverse interactions."},
+    {"id": 4, "slug": "travel-vaccinations", "title": "Travel Vaccinations", "description": "Essential travel vaccinations and health advice for your next trip.", "content": "Planning a trip? Get your travel vaccinations done safely and efficiently at our clinic."},
+    {"id": 5, "slug": "flu-shots", "title": "Flu Shots & Immunizations", "description": "Seasonal flu shots and standard immunizations available immediately.", "content": "Protect yourself this season. We offer walk-in flu shots and routine immunizations."},
+    {"id": 6, "slug": "compounding-pharmacy", "title": "Compounding Services", "description": "Customized medication compounding tailored to your specific dosage requirements.", "content": "Our specialized compounding service allows us to create medications at the exact dosages your doctor prescribed."},
+    {"id": 7, "slug": "chronic-disease-management", "title": "Chronic Disease Management", "description": "Expert support for managing diabetes, hypertension, and other chronic conditions.", "content": "We work alongside your primary physician to help you manage long-term chronic diseases with regular monitoring."},
+    {"id": 8, "slug": "free-prescription-delivery", "title": "Free Prescription Delivery", "description": "Same-day or next-day free delivery across the entire Lower Mainland.", "content": "We securely deliver your medications right to your front door at no extra charge."},
+    {"id": 9, "slug": "smoking-cessation", "title": "Smoking Cessation Program", "description": "Consultations and aids to help you quit smoking for good.", "content": "Our smoking cessation program provides the medical and emotional support needed to quit smoking forever."},
+    {"id": 10, "slug": "blood-pressure-monitoring", "title": "Blood Pressure Monitoring", "description": "In-pharmacy blood pressure tracking and cardiovascular health advice.", "content": "Monitor your heart health. Drop in for a quick, accurate blood pressure reading and clinical advice."}
+]
+
+with open("src/data/services.json", "w", encoding="utf-8") as f:
+    json.dump(services, f, indent=2)
+
+print("Fixed services JSON")
