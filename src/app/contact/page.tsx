@@ -48,11 +48,11 @@ export default function ContactPage() {
           <p className="text-slate-500 mb-8 max-w-sm mx-auto">
             You can reach our clinical team directly at:
             <br />
-            <strong className="text-slate-900 text-lg block mt-2">pharmacist@pharmacyvancouver.ca</strong>
+            <strong className="text-slate-900 text-lg block mt-2">pharmacy@mailorderpharmacy.io</strong>
           </p>
 
           <a 
-            href="mailto:pharmacist@pharmacyvancouver.ca?subject=Pharmacy%20Consultation%20Request&body=Patient%20Name%3A%0APhone%20Number%3A%0A%0A1.%20What%20symptoms%20or%20health%20issue%20can%20we%20help%20you%20with%3F%0A%0A%0A2.%20Are%20you%20currently%20taking%20any%20other%20medications%3F%0A%0A%0A3.%20What%20is%20your%20mailing%20address%20for%20delivery%3F%0A" 
+            href="mailto:pharmacy@mailorderpharmacy.io?subject=Pharmacy%20Consultation%20Request&body=Patient%20Name%3A%0APhone%20Number%3A%0A%0A1.%20What%20symptoms%20or%20health%20issue%20can%20we%20help%20you%20with%3F%0A%0A%0A2.%20Are%20you%20currently%20taking%20any%20other%20medications%3F%0A%0A%0A3.%20What%20is%20your%20mailing%20address%20for%20delivery%3F%0A" 
             className="w-full bg-blue-600 text-white py-4 rounded-xl font-bold flex items-center justify-center gap-2 hover:bg-blue-700 transition shadow-lg shadow-blue-600/20"
           >
             Email a Pharmacist <ArrowRight className="w-5 h-5" />

@@ -37,7 +37,7 @@ export default function Header({ title, colorClass }: { title: string, colorClas
           <div className="md:hidden mt-2 pt-4 border-t border-gray-100 flex flex-col gap-4">
             <p className="text-xs text-gray-400 font-bold uppercase">Language / Idioma</p>
             <GoogleTranslate />
-            <a href="mailto:pharmacist@pharmacyvancouver.ca?subject=Pharmacy%20Consultation%20Request&body=Patient%20Name%3A%0APhone%20Number%3A%0A%0AHow%20can%20we%20help%20you%3F%0A" onClick={() => setIsOpen(false)} className={`mt-2 ${colorClass} text-white px-5 py-3 rounded-xl text-center font-bold`}>
+            <a href="mailto:pharmacy@mailorderpharmacy.io?subject=Pharmacy%20Consultation%20Request&body=Patient%20Name%3A%0APhone%20Number%3A%0A%0AHow%20can%20we%20help%20you%3F%0A" onClick={() => setIsOpen(false)} className={`mt-2 ${colorClass} text-white px-5 py-3 rounded-xl text-center font-bold`}>
               See a Pharmacist
             </a>
           </div>
@@ -46,7 +46,7 @@ export default function Header({ title, colorClass }: { title: string, colorClas
         {/* Desktop Only: Show Translate & Button on right */}
         <div className="hidden md:flex items-center gap-4">
           <GoogleTranslate />
-          <a href="mailto:pharmacist@pharmacyvancouver.ca?subject=Pharmacy%20Consultation%20Request&body=Patient%20Name%3A%0APhone%20Number%3A%0A%0AHow%20can%20we%20help%20you%3F%0A" className="bg-black text-white px-5 py-2.5 rounded-full text-sm font-semibold hover:scale-105 hover:bg-emerald-600 transition-all duration-300">
+          <a href="mailto:pharmacy@mailorderpharmacy.io?subject=Pharmacy%20Consultation%20Request&body=Patient%20Name%3A%0APhone%20Number%3A%0A%0AHow%20can%20we%20help%20you%3F%0A" className="bg-black text-white px-5 py-2.5 rounded-full text-sm font-semibold hover:scale-105 hover:bg-emerald-600 transition-all duration-300">
             See a Pharmacist
           </a>
         </div>

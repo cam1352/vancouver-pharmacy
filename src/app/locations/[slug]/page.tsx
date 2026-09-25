@@ -28,7 +28,7 @@ export default async function LocationPage({ params }: { params: Promise<{ slug:
       </div>
       <div className="mt-12 bg-blue-50 p-8 rounded-xl text-center">
         <h3 className="text-2xl font-bold mb-4">Book your cleaner in {loc.name} today</h3>
-        <a href="mailto:pharmacist@pharmacyvancouver.ca" className="inline-block bg-blue-600 text-white font-bold py-3 px-8 rounded-lg hover:bg-blue-700 transition">Contact a Pharmacist</a>
+        <a href="mailto:pharmacy@mailorderpharmacy.io" className="inline-block bg-blue-600 text-white font-bold py-3 px-8 rounded-lg hover:bg-blue-700 transition">Contact a Pharmacist</a>
       </div>
     </div>
   );

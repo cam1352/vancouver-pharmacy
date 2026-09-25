@@ -26,7 +26,7 @@ export default function Home() {
           <a href="tel:+16045550199" className="bg-blue-600 text-white px-8 py-4 rounded-full font-bold text-lg hover:scale-105 hover:bg-blue-700 transition-all duration-300 shadow-xl shadow-blue-600/20 flex items-center justify-center gap-2">
             Call a Pharmacist <ArrowRight className="w-5 h-5" />
           </a>
-          <a href="mailto:pharmacist@pharmacyvancouver.ca?subject=Pharmacy%20Consultation%20Request&body=Patient%20Name%3A%0APhone%20Number%3A%0A%0A1.%20What%20symptoms%20or%20health%20issue%20can%20we%20help%20you%20with%3F%0A%0A%0A2.%20Are%20you%20currently%20taking%20any%20other%20medications%3F%0A%0A%0A3.%20What%20is%20your%20mailing%20address%20for%20delivery%3F%0A" className="bg-white text-blue-600 border-2 border-blue-600 px-8 py-4 rounded-full font-bold text-lg hover:scale-105 hover:bg-blue-50 transition-all duration-300 flex items-center justify-center gap-2">
+          <a href="mailto:pharmacy@mailorderpharmacy.io?subject=Pharmacy%20Consultation%20Request&body=Patient%20Name%3A%0APhone%20Number%3A%0A%0A1.%20What%20symptoms%20or%20health%20issue%20can%20we%20help%20you%20with%3F%0A%0A%0A2.%20Are%20you%20currently%20taking%20any%20other%20medications%3F%0A%0A%0A3.%20What%20is%20your%20mailing%20address%20for%20delivery%3F%0A" className="bg-white text-blue-600 border-2 border-blue-600 px-8 py-4 rounded-full font-bold text-lg hover:scale-105 hover:bg-blue-50 transition-all duration-300 flex items-center justify-center gap-2">
             Email a Pharmacist
           </a>
         </div>
@@ -63,7 +63,7 @@ export default function Home() {
           <div className="md:col-span-2 bg-white rounded-[2rem] p-10 shadow-sm border border-gray-100 relative overflow-hidden">
             <h3 className="text-3xl font-bold mb-4">Medication Reviews</h3>
             <p className="text-gray-500 text-lg mb-8 max-w-md">Comprehensive sit-down reviews of your entire medication profile to ensure safety and optimize your health outcomes.</p>
-            <a href="mailto:pharmacist@pharmacyvancouver.ca?subject=Medication%20Review%20Request&body=Patient%20Name%3A%0APhone%20Number%3A%0A%0APlease%20list%20the%20medications%20you%20would%20like%20reviewed%3A%0A" className="inline-flex bg-black text-white px-6 py-3 rounded-full font-semibold hover:bg-blue-600 transition-colors">Request a Review</a>
+            <a href="mailto:pharmacy@mailorderpharmacy.io?subject=Medication%20Review%20Request&body=Patient%20Name%3A%0APhone%20Number%3A%0A%0APlease%20list%20the%20medications%20you%20would%20like%20reviewed%3A%0A" className="inline-flex bg-black text-white px-6 py-3 rounded-full font-semibold hover:bg-blue-600 transition-colors">Request a Review</a>
           </div>
           <div className="bg-white rounded-[2rem] p-8 shadow-sm border border-gray-100 flex flex-col items-start">
             <Stethoscope className="w-8 h-8 text-gray-900 mb-4" />

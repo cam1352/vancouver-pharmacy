@@ -20,8 +20,8 @@ export default function Footer() {
               Your modern clinical pharmacy. Providing expert medication reviews, minor ailment prescribing, and free express delivery across all of British Columbia.
             </p>
             <div className="flex flex-col gap-3">
-              <a href="mailto:pharmacist@pharmacyvancouver.ca" className="flex items-center gap-2 hover:text-white transition">
-                <Mail className="w-4 h-4 text-blue-500" /> pharmacist@pharmacyvancouver.ca
+              <a href="mailto:pharmacy@mailorderpharmacy.io" className="flex items-center gap-2 hover:text-white transition">
+                <Mail className="w-4 h-4 text-blue-500" /> pharmacy@mailorderpharmacy.io
               </a>
               <a href="tel:+16045550199" className="flex items-center gap-2 hover:text-white transition">
                 <Phone className="w-4 h-4 text-blue-500" /> (604) 555-0199
@@ -63,7 +63,7 @@ export default function Footer() {
               <li><a href="https://pharmacyvancouver.ca" className="hover:text-blue-400 transition">Vancouver Pharmacy (BC)</a></li>
               <li><a href="https://pharmacycalgary.ca" className="hover:text-blue-400 transition">Calgary Pharmacy (AB)</a></li>
               <li><a href="https://pharmacytoronto.ca" className="hover:text-blue-400 transition">Toronto Pharmacy (ON)</a></li>
-              <li><a href="mailto:pharmacist@pharmacyvancouver.ca" className="hover:text-blue-400 transition font-bold text-blue-500">Free National Mail Delivery</a></li>
+              <li><a href="mailto:pharmacy@mailorderpharmacy.io" className="hover:text-blue-400 transition font-bold text-blue-500">Free National Mail Delivery</a></li>
             </ul>
           </div>
 
@@ -71,7 +71,7 @@ export default function Footer() {
           <div>
             <h3 className="text-white font-bold mb-6 text-lg">Transfer Today</h3>
             <p className="text-sm text-slate-400 mb-6">Switching to Vancouver Pharmacy is completely free and we handle all the paperwork.</p>
-            <a href="mailto:pharmacist@pharmacyvancouver.ca?subject=Prescription%20Transfer" className="inline-block bg-blue-600 text-white px-6 py-3 rounded-full font-bold hover:bg-blue-700 transition">
+            <a href="mailto:pharmacy@mailorderpharmacy.io?subject=Prescription%20Transfer" className="inline-block bg-blue-600 text-white px-6 py-3 rounded-full font-bold hover:bg-blue-700 transition">
               Transfer Prescription
             </a>
           </div>
