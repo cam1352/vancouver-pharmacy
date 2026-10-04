@@ -4,7 +4,7 @@ import meds from '../data/medications.json'
 import locations from '../data/locations.json'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://vancouverpharmacy.ca'
+  const baseUrl = 'https://pharmacyvancouver.ca'
   
   const staticRoutes = [
     '',
